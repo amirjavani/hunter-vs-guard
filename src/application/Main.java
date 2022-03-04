@@ -19,6 +19,7 @@ public class Main extends Application {
         primaryStage.setResizable(false);
         primaryStage.initStyle(StageStyle.TRANSPARENT);
         primaryStage.show();
+        System.out.println('commint');
     }
 
 
